@@ -1,0 +1,8 @@
+site_name: "sprintboot-gh"
+site_description: "sprintboot-gh"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
